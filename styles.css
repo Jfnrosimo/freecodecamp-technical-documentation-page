@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    outline: 1px solid green;
 }
 body {
     font-family: cursive;
@@ -109,7 +108,10 @@ a {
         margin-right: 2px;
     }
     #navbar {
-        width: 30%;
+        width: 20%;
+    }
+    #main-doc {
+        margin-left: 25%;
     }
     section h2 {
         font-size: 1.5rem;
